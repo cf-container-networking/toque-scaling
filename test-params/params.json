@@ -1,5 +1,5 @@
 {
-    "reflex_instances": 4,
-    "reflex_applications": 1,
-    "reflex_policies": 2
+    "reflex_instances": 5,
+    "reflex_applications": 50,
+    "reflex_policies": 3
 }
