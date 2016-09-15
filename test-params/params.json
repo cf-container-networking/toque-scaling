@@ -1,5 +1,5 @@
 {
-    "reflex_instances": 5,
-    "reflex_applications": 50,
-    "reflex_policies": 3
+    "test_app_instances": 5,
+    "test_applications": 50,
+    "test_policies": 3
 }
