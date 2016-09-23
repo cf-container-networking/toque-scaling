@@ -1,4 +1,6 @@
 {
+    "proxy_instances": 3,
+
     "test_applications": 50,
     "test_app_instances": 5,
     "test_policies": 3
