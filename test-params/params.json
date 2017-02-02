@@ -6,5 +6,5 @@
     "sample_size":200,
     "prefix":"scale-",
     "concurrency": 8,
-    "asg_size": 50
+    "asg_size": 25
 }
