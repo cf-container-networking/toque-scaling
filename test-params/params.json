@@ -1,6 +1,6 @@
 {
     "proxy_instances": 1,
-    "test_applications": 100,
+    "test_applications": 4,
     "test_app_instances": 4,
     "extra_listen_ports": 15,
     "sample_size":200,
