@@ -1,6 +1,6 @@
 {
     "proxy_instances": 100,
-    "proxy_applications": 100,
+    "proxy_applications": 1,
     "test_app_instances": 20,
     "test_applications": 1000,
     "test_app_registry_ttl_seconds": 180,
