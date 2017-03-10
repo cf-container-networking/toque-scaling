@@ -6,7 +6,7 @@
     "test_app_registry_ttl_seconds": 180,
     "policy_update_wait_seconds": 10,
     "extra_listen_ports": 2,
-    "sample_percent":20,
+    "sample_percent":2,
     "prefix":"scale-",
     "concurrency": 20,
     "asg_size": 5
