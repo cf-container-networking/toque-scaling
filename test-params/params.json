@@ -1,12 +1,12 @@
 {
-    "proxy_instances": 100,
-    "proxy_applications": 1,
-    "test_app_instances": 20,
-    "test_applications": 1000,
-    "test_app_registry_ttl_seconds": 600,
+    "proxy_instances": 2,
+    "proxy_applications": 100,
+    "test_app_instances": 2,
+    "test_applications": 100,
+    "test_app_registry_ttl_seconds": 60,
     "policy_update_wait_seconds": 10,
     "extra_listen_ports": 2,
-    "sample_percent":2,
+    "sample_percent":20,
     "prefix":"x-",
     "concurrency": 20,
     "asg_size": 5
